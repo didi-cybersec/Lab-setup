@@ -1,10 +1,10 @@
 # Project Title:  Lab Setup: Deploy Virtual Machines
-## Project Supervisor: Norbert Ephraim
- *Prepared By:Cornelius Michael  21/07/2025*
+## Project Supervisor: Cornelius Micheal Ekanem
+ *Prepared By:Divine Eze Chibueze  28/05/2026*
 
 ## 1. Project Overview
-Virtual machines (VMs) are essential tools used to create isolated and virtualized environments that allow multiple operating systems to run on a single physical computer. These environments are valuable for various purposes, such as software testing, malware analysis, and cybersecurity training.
-By completing this exercise, you will develop essential skills in creating and managing virtual machines for various purposes. This exercise prepares you to work in various IT roles, including cybersecurity, where virtual machines are commonly used for malware analysis, penetration testing, and secure software testing.
+Virtual machines (VMs) are very important tools used to create a seperate and isolated environment used to run multiple operating system (OS) on a physical computer. These environments created can be valuable for different purposes, such as software develpopment and testing, malware analysis, and cybersecurity training.
+By completing this exercise, you will develop essential skills in creating and managing virtual machines for different purposes. This exercise prepares you to work in numerous IT roles, including cybersecurity, where virtual machines are commonly used for malware analysis, penetration testing, and secure software testing.
 
 ## 2. Project Goals
 - The goal is to install a Hypervisor on your computer (host).
@@ -169,9 +169,9 @@ Successful response with <1ms latency
 - Needed to configure the NAT Network settings to enable DHCP manually.
 
 ### Key Takeaways:
-- Networking mode selection is critical to VM isolation.
-- Hands-on VM setup builds foundational skills for penetration testing labs and malware analysis environments.
-- Understanding hypervisor networking is essential for real-world cybersecurity lab design.
+- Networking mode selection is important to VM isolation.
+- Being proficeient on VM setup builds foundational skills for penetration testing labs and malware analysis environments.
+- Understanding hypervisor networking is important for real-world cybersecurity lab design.
 
 ## 7. References
 
