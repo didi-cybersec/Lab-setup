@@ -170,7 +170,9 @@ Successful response with <1ms latency
 
 ### Key Takeaways:
 -Selecting the appropriate networking mode is essential for maintaining virtual machine isolation and ensuring a secure virtual environment.
+
 -Hands-on VM setup develops essential skills for configuring penetration testing labs and building secure malware analysis environments.
+
 -Understanding hypervisor networking is essential for real-world cybersecurity lab design.
 ## 7. References
 
