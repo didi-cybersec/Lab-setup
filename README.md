@@ -1,9 +1,9 @@
 # Project Title:  Lab Setup: Deploy Virtual Machines
-## Project Supervisor: Norbert Ephraim
- *Prepared By:Cornelius Michael  21/07/2025*
+## Project Supervisor: Cornelius Michael 
+ *Prepared By: Divine Eze 28/05/2026*
 
 ## 1. Project Overview
-Virtual machines (VMs) are essential tools used to create isolated and virtualized environments that allow multiple operating systems to run on a single physical computer. These environments are valuable for various purposes, such as software testing, malware analysis, and cybersecurity training.
+Virtual machines (VMs) are essential tools that create isolated, virtualized environments, enabling multiple operating systems to run on a single physical computer. These environments are widely used for software testing, malware analysis, cybersecurity training, and system administration. VMs provide a safe and controlled space where users can experiment, troubleshoot, and analyze software without affecting the host operating system.
 By completing this exercise, you will develop essential skills in creating and managing virtual machines for various purposes. This exercise prepares you to work in various IT roles, including cybersecurity, where virtual machines are commonly used for malware analysis, penetration testing, and secure software testing.
 
 ## 2. Project Goals
@@ -169,10 +169,9 @@ Successful response with <1ms latency
 - Needed to configure the NAT Network settings to enable DHCP manually.
 
 ### Key Takeaways:
-- Networking mode selection is critical to VM isolation.
-- Hands-on VM setup builds foundational skills for penetration testing labs and malware analysis environments.
-- Understanding hypervisor networking is essential for real-world cybersecurity lab design.
-
+-Selecting the appropriate networking mode is essential for maintaining virtual machine isolation and ensuring a secure virtual environment.
+-Hands-on VM setup develops essential skills for configuring penetration testing labs and building secure malware analysis environments.
+-Understanding hypervisor networking is essential for real-world cybersecurity lab design.
 ## 7. References
 
 - VirtualBox Documentation     https://www.virtualbox.org/manual/
